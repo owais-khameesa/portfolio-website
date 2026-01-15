@@ -1,0 +1,46 @@
+.logo{
+    background-color: brown;
+    /* display: flex; */
+}
+.logo h1{
+    color: white;
+    padding: 1px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.header{
+    padding: 10px;
+    margin-left: 1100px;
+    margin-top: -60px;
+}
+.header a{
+    text-decoration: none;
+    color: white;
+    font-size: large;
+}
+.header a:hover{
+    color: black;
+}
+.body{
+    text-align: center;
+    color: white;
+    margin-top: 120px;
+}
+.button{
+    padding-top: 20px;
+    padding-left: 710px;
+}
+.button button{
+    color: black;
+}
+.button button:hover{
+    background-color:lightcoral ;
+    color: white;
+} 
+.down{
+    border-color: white;
+    text-align: center;
+}
+.down h2{
+    text-decoration: underline;
+}
