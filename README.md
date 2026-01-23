@@ -11,6 +11,5 @@ This is an exampple website created as a beginner project to practice web develo
 ## 🛠 Tech Stack
 - HTML
 - CSS
-
-## 🌐 Live Demo
-https://Null-Trace0.github.io/portfolio-website/
+- C++
+- C
