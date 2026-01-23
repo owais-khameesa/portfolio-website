@@ -13,4 +13,4 @@ This is an exampple website created as a beginner project to practice web develo
 - CSS
 
 ## 🌐 Live Demo
-https://owais-khameesa.github.io/portfolio-website/
+https://Null-Trace0.github.io/portfolio-website/
